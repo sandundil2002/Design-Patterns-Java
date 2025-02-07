@@ -1,4 +1,4 @@
-package DecoratorDesignPattern.server;
+package StructuralDesignPatterns.Decorator.server;
 
 public class EmailNotificationService implements MessagingService {
     @Override

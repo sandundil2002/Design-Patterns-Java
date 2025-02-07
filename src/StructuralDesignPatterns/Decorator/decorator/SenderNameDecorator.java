@@ -1,6 +1,6 @@
-package DecoratorDesignPattern.decorator;
+package StructuralDesignPatterns.Decorator.decorator;
 
-import DecoratorDesignPattern.server.MessagingService;
+import StructuralDesignPatterns.Decorator.server.MessagingService;
 
 public class SenderNameDecorator extends MessagingDecorator {
     private String senderName;

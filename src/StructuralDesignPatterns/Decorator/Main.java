@@ -1,8 +1,8 @@
-package DecoratorDesignPattern;
+package StructuralDesignPatterns.Decorator;
 
-import DecoratorDesignPattern.decorator.SenderNameDecorator;
-import DecoratorDesignPattern.server.MessagingService;
-import DecoratorDesignPattern.server.SmsMessagingService;
+import StructuralDesignPatterns.Decorator.decorator.SenderNameDecorator;
+import StructuralDesignPatterns.Decorator.server.MessagingService;
+import StructuralDesignPatterns.Decorator.server.SmsMessagingService;
 
 public class Main {
     public static void main(String[] args) {
